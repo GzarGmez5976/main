@@ -1,0 +1,30 @@
+
+.mainInformation h2 {
+    color: black;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 15px;
+
+}
+
+
+.imagesAndTextes {
+    
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 25px;
+    padding: 20px;
+
+   
+  justify-items: center; /* adjusted */
+    clear: both;
+}
+
+.line {
+    border-top: 1px solid black;
+    height: 2px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+    width: 60rem;
+  }

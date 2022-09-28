@@ -1,0 +1,35 @@
+*{
+    color: #ffffff;
+}
+header{
+    width: 100%;
+    min-height: 80px;
+
+    height: 80px;
+    min-width: 1250px;
+
+    background-color:#24969c;
+    clear:both; 
+}
+h1{
+    display: inline-block;
+    text-align: center;
+    padding-left: 30px;
+
+
+}
+.icons{
+    width: 50px;
+    vertical-align:middle;
+    margin-right: 8px;
+}
+
+.logo{
+    width: 65px;
+    vertical-align:middle;
+    padding-left: 100px;
+    padding-bottom: 10px;
+
+    border-radius: 50% 20% / 10% 40%;
+}
+
