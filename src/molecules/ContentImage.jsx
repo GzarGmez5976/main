@@ -9,7 +9,6 @@ function ContentImage(){
         <div className='content'>
             <Img src={coverPhoto} className='fondo'></Img>
 
-            
             <div className="divButton">
             <Button content='Página web'></Button>
             </div>
